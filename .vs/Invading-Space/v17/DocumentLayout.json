@@ -3,56 +3,12 @@
   "WorkspaceRootPath": "C:\\Users\\Jay\\source\\repos\\Invading-Space\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{617A9D96-2E1F-4F51-A0B8-0542D66B9F1A}|Invading-Space\\Invading-Space.vcxproj|C:\\Users\\Jay\\source\\repos\\Invading-Space\\Invading-Space\\Alien.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{617A9D96-2E1F-4F51-A0B8-0542D66B9F1A}|Invading-Space\\Invading-Space.vcxproj|solutionrelative:Invading-Space\\Alien.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{617A9D96-2E1F-4F51-A0B8-0542D66B9F1A}|Invading-Space\\Invading-Space.vcxproj|C:\\Users\\Jay\\source\\repos\\Invading-Space\\Invading-Space\\Alien.hpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{617A9D96-2E1F-4F51-A0B8-0542D66B9F1A}|Invading-Space\\Invading-Space.vcxproj|solutionrelative:Invading-Space\\Alien.hpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{617A9D96-2E1F-4F51-A0B8-0542D66B9F1A}|Invading-Space\\Invading-Space.vcxproj|C:\\Users\\Jay\\source\\repos\\Invading-Space\\Invading-Space\\game.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{617A9D96-2E1F-4F51-A0B8-0542D66B9F1A}|Invading-Space\\Invading-Space.vcxproj|solutionrelative:Invading-Space\\game.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{617A9D96-2E1F-4F51-A0B8-0542D66B9F1A}|Invading-Space\\Invading-Space.vcxproj|C:\\Users\\Jay\\source\\repos\\Invading-Space\\Invading-Space\\game.hpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{617A9D96-2E1F-4F51-A0B8-0542D66B9F1A}|Invading-Space\\Invading-Space.vcxproj|solutionrelative:Invading-Space\\game.hpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{617A9D96-2E1F-4F51-A0B8-0542D66B9F1A}|Invading-Space\\Invading-Space.vcxproj|C:\\Users\\Jay\\source\\repos\\Invading-Space\\Invading-Space\\Invading-Space.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{617A9D96-2E1F-4F51-A0B8-0542D66B9F1A}|Invading-Space\\Invading-Space.vcxproj|solutionrelative:Invading-Space\\Invading-Space.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{617A9D96-2E1F-4F51-A0B8-0542D66B9F1A}|Invading-Space\\Invading-Space.vcxproj|C:\\Users\\Jay\\source\\repos\\Invading-Space\\Invading-Space\\Obstacle.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{617A9D96-2E1F-4F51-A0B8-0542D66B9F1A}|Invading-Space\\Invading-Space.vcxproj|solutionrelative:Invading-Space\\Obstacle.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{617A9D96-2E1F-4F51-A0B8-0542D66B9F1A}|Invading-Space\\Invading-Space.vcxproj|C:\\Users\\Jay\\source\\repos\\Invading-Space\\Invading-Space\\Obstacle.hpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{617A9D96-2E1F-4F51-A0B8-0542D66B9F1A}|Invading-Space\\Invading-Space.vcxproj|solutionrelative:Invading-Space\\Obstacle.hpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{617A9D96-2E1F-4F51-A0B8-0542D66B9F1A}|Invading-Space\\Invading-Space.vcxproj|C:\\Users\\Jay\\source\\repos\\Invading-Space\\Invading-Space\\SpaceShip.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{617A9D96-2E1F-4F51-A0B8-0542D66B9F1A}|Invading-Space\\Invading-Space.vcxproj|solutionrelative:Invading-Space\\SpaceShip.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{617A9D96-2E1F-4F51-A0B8-0542D66B9F1A}|Invading-Space\\Invading-Space.vcxproj|C:\\Users\\Jay\\source\\repos\\Invading-Space\\Invading-Space\\SpaceShip.hpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{617A9D96-2E1F-4F51-A0B8-0542D66B9F1A}|Invading-Space\\Invading-Space.vcxproj|solutionrelative:Invading-Space\\SpaceShip.hpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{617A9D96-2E1F-4F51-A0B8-0542D66B9F1A}|Invading-Space\\Invading-Space.vcxproj|C:\\Users\\Jay\\source\\repos\\Invading-Space\\Invading-Space\\laser.hpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{617A9D96-2E1F-4F51-A0B8-0542D66B9F1A}|Invading-Space\\Invading-Space.vcxproj|solutionrelative:Invading-Space\\laser.hpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{617A9D96-2E1F-4F51-A0B8-0542D66B9F1A}|Invading-Space\\Invading-Space.vcxproj|C:\\Users\\Jay\\source\\repos\\Invading-Space\\Invading-Space\\Block.hpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{617A9D96-2E1F-4F51-A0B8-0542D66B9F1A}|Invading-Space\\Invading-Space.vcxproj|solutionrelative:Invading-Space\\Block.hpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{617A9D96-2E1F-4F51-A0B8-0542D66B9F1A}|Invading-Space\\Invading-Space.vcxproj|C:\\Users\\Jay\\source\\repos\\Invading-Space\\Invading-Space\\Block.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{617A9D96-2E1F-4F51-A0B8-0542D66B9F1A}|Invading-Space\\Invading-Space.vcxproj|solutionrelative:Invading-Space\\Block.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{617A9D96-2E1F-4F51-A0B8-0542D66B9F1A}|Invading-Space\\Invading-Space.vcxproj|C:\\Users\\Jay\\source\\repos\\Invading-Space\\Invading-Space\\laser.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{617A9D96-2E1F-4F51-A0B8-0542D66B9F1A}|Invading-Space\\Invading-Space.vcxproj|solutionrelative:Invading-Space\\laser.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{617A9D96-2E1F-4F51-A0B8-0542D66B9F1A}|Invading-Space\\Invading-Space.vcxproj|C:\\Users\\Jay\\source\\repos\\Invading-Space\\Invading-Space\\SpaceShip.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{617A9D96-2E1F-4F51-A0B8-0542D66B9F1A}|Invading-Space\\Invading-Space.vcxproj|solutionrelative:Invading-Space\\SpaceShip.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
   "DocumentGroupContainers": [
@@ -67,169 +23,27 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "Alien.cpp",
-              "DocumentMoniker": "C:\\Users\\Jay\\source\\repos\\Invading-Space\\Invading-Space\\Alien.cpp",
-              "RelativeDocumentMoniker": "Invading-Space\\Alien.cpp",
-              "ToolTip": "C:\\Users\\Jay\\source\\repos\\Invading-Space\\Invading-Space\\Alien.cpp",
-              "RelativeToolTip": "Invading-Space\\Alien.cpp",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAbAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2024-11-01T16:39:33.803Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Alien.hpp",
-              "DocumentMoniker": "C:\\Users\\Jay\\source\\repos\\Invading-Space\\Invading-Space\\Alien.hpp",
-              "RelativeDocumentMoniker": "Invading-Space\\Alien.hpp",
-              "ToolTip": "C:\\Users\\Jay\\source\\repos\\Invading-Space\\Invading-Space\\Alien.hpp",
-              "RelativeToolTip": "Invading-Space\\Alien.hpp",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2024-11-01T16:36:57.789Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "Obstacle.cpp",
-              "DocumentMoniker": "C:\\Users\\Jay\\source\\repos\\Invading-Space\\Invading-Space\\Obstacle.cpp",
-              "RelativeDocumentMoniker": "Invading-Space\\Obstacle.cpp",
-              "ToolTip": "C:\\Users\\Jay\\source\\repos\\Invading-Space\\Invading-Space\\Obstacle.cpp",
-              "RelativeToolTip": "Invading-Space\\Obstacle.cpp",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAxAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2024-11-01T15:29:44.335Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "Obstacle.hpp",
-              "DocumentMoniker": "C:\\Users\\Jay\\source\\repos\\Invading-Space\\Invading-Space\\Obstacle.hpp",
-              "RelativeDocumentMoniker": "Invading-Space\\Obstacle.hpp",
-              "ToolTip": "C:\\Users\\Jay\\source\\repos\\Invading-Space\\Invading-Space\\Obstacle.hpp",
-              "RelativeToolTip": "Invading-Space\\Obstacle.hpp",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAIAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2024-11-01T15:26:33.232Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "Block.cpp",
-              "DocumentMoniker": "C:\\Users\\Jay\\source\\repos\\Invading-Space\\Invading-Space\\Block.cpp",
-              "RelativeDocumentMoniker": "Invading-Space\\Block.cpp",
-              "ToolTip": "C:\\Users\\Jay\\source\\repos\\Invading-Space\\Invading-Space\\Block.cpp",
-              "RelativeToolTip": "Invading-Space\\Block.cpp",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAABCAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2024-11-01T13:22:31.975Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "Block.hpp",
-              "DocumentMoniker": "C:\\Users\\Jay\\source\\repos\\Invading-Space\\Invading-Space\\Block.hpp",
-              "RelativeDocumentMoniker": "Invading-Space\\Block.hpp",
-              "ToolTip": "C:\\Users\\Jay\\source\\repos\\Invading-Space\\Invading-Space\\Block.hpp",
-              "RelativeToolTip": "Invading-Space\\Block.hpp",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAIAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2024-11-01T13:20:10.545Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "Laser.hpp",
-              "DocumentMoniker": "C:\\Users\\Jay\\source\\repos\\Invading-Space\\Invading-Space\\Laser.hpp",
-              "RelativeDocumentMoniker": "Invading-Space\\Laser.hpp",
-              "ToolTip": "C:\\Users\\Jay\\source\\repos\\Invading-Space\\Invading-Space\\Laser.hpp",
-              "RelativeToolTip": "Invading-Space\\Laser.hpp",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAANAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2024-10-31T15:30:45.48Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "Laser.cpp",
-              "DocumentMoniker": "C:\\Users\\Jay\\source\\repos\\Invading-Space\\Invading-Space\\Laser.cpp",
-              "RelativeDocumentMoniker": "Invading-Space\\Laser.cpp",
-              "ToolTip": "C:\\Users\\Jay\\source\\repos\\Invading-Space\\Invading-Space\\Laser.cpp",
-              "RelativeToolTip": "Invading-Space\\Laser.cpp",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAASAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2024-10-31T15:37:17.156Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Game.hpp",
-              "DocumentMoniker": "C:\\Users\\Jay\\source\\repos\\Invading-Space\\Invading-Space\\Game.hpp",
-              "RelativeDocumentMoniker": "Invading-Space\\Game.hpp",
-              "ToolTip": "C:\\Users\\Jay\\source\\repos\\Invading-Space\\Invading-Space\\Game.hpp",
-              "RelativeToolTip": "Invading-Space\\Game.hpp",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAbAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2024-11-01T14:37:03.509Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Game.cpp",
-              "DocumentMoniker": "C:\\Users\\Jay\\source\\repos\\Invading-Space\\Invading-Space\\Game.cpp",
-              "RelativeDocumentMoniker": "Invading-Space\\Game.cpp",
-              "ToolTip": "C:\\Users\\Jay\\source\\repos\\Invading-Space\\Invading-Space\\Game.cpp",
-              "RelativeToolTip": "Invading-Space\\Game.cpp",
-              "ViewState": "AgIAACoAAAAAAAAAAAAAAGMAAAAjAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2024-10-31T15:14:57.961Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "SpaceShip.hpp",
-              "DocumentMoniker": "C:\\Users\\Jay\\source\\repos\\Invading-Space\\Invading-Space\\SpaceShip.hpp",
-              "RelativeDocumentMoniker": "Invading-Space\\SpaceShip.hpp",
-              "ToolTip": "C:\\Users\\Jay\\source\\repos\\Invading-Space\\Invading-Space\\SpaceShip.hpp",
-              "RelativeToolTip": "Invading-Space\\SpaceShip.hpp",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2024-10-31T13:35:09.2Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 12,
               "Title": "SpaceShip.cpp",
               "DocumentMoniker": "C:\\Users\\Jay\\source\\repos\\Invading-Space\\Invading-Space\\SpaceShip.cpp",
               "RelativeDocumentMoniker": "Invading-Space\\SpaceShip.cpp",
               "ToolTip": "C:\\Users\\Jay\\source\\repos\\Invading-Space\\Invading-Space\\SpaceShip.cpp",
               "RelativeToolTip": "Invading-Space\\SpaceShip.cpp",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAACUAAAAaAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACoAAAAYAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2024-10-31T13:40:28.365Z"
+              "WhenOpened": "2024-11-07T18:23:35.034Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "Invading-Space.cpp",
-              "DocumentMoniker": "C:\\Users\\Jay\\source\\repos\\Invading-Space\\Invading-Space\\Invading-Space.cpp",
-              "RelativeDocumentMoniker": "Invading-Space\\Invading-Space.cpp",
-              "ToolTip": "C:\\Users\\Jay\\source\\repos\\Invading-Space\\Invading-Space\\Invading-Space.cpp",
-              "RelativeToolTip": "Invading-Space\\Invading-Space.cpp",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAATAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2024-10-28T14:05:17.933Z",
+              "DocumentIndex": 1,
+              "Title": "SpaceShip.hpp",
+              "DocumentMoniker": "C:\\Users\\Jay\\source\\repos\\Invading-Space\\Invading-Space\\SpaceShip.hpp",
+              "RelativeDocumentMoniker": "Invading-Space\\SpaceShip.hpp",
+              "ToolTip": "C:\\Users\\Jay\\source\\repos\\Invading-Space\\Invading-Space\\SpaceShip.hpp",
+              "RelativeToolTip": "Invading-Space\\SpaceShip.hpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-11-07T18:23:03.882Z",
               "EditorCaption": ""
             }
           ]

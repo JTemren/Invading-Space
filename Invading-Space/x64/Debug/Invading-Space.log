@@ -1,8 +1,17 @@
 ﻿  Game.cpp
-C:\Users\Jay\source\repos\Invading-Space\Invading-Space\Game.cpp(66,20): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
-C:\Users\Jay\source\repos\Invading-Space\Invading-Space\Game.cpp(67,12): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
-C:\Users\Jay\source\repos\Invading-Space\Invading-Space\Game.cpp(98,12): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
-C:\Users\Jay\source\repos\Invading-Space\Invading-Space\Game.cpp(99,12): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+C:\Users\Jay\source\repos\Invading-Space\Invading-Space\Game.hpp(38,52): warning C4305: 'initializing': truncation from 'double' to 'const float'
+  (compiling source file 'Game.cpp')
+  
+C:\Users\Jay\source\repos\Invading-Space\Invading-Space\Game.cpp(15,9): warning C4551: function call missing argument list
+C:\Users\Jay\source\repos\Invading-Space\Invading-Space\Game.cpp(28,27): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\Jay\source\repos\Invading-Space\Invading-Space\Game.cpp(29,45): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\Jay\source\repos\Invading-Space\Invading-Space\Game.cpp(122,20): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Jay\source\repos\Invading-Space\Invading-Space\Game.cpp(123,12): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+C:\Users\Jay\source\repos\Invading-Space\Invading-Space\Game.cpp(154,12): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+C:\Users\Jay\source\repos\Invading-Space\Invading-Space\Game.cpp(155,12): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+C:\Users\Jay\source\repos\Invading-Space\Invading-Space\Game.cpp(186,53): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Jay\source\repos\Invading-Space\Invading-Space\Game.cpp(190,31): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\Jay\source\repos\Invading-Space\Invading-Space\Game.cpp(336,43): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
   Invading-Space.vcxproj -> C:\Users\Jay\source\repos\Invading-Space\x64\Debug\Invading-Space.exe
   'pwsh.exe' is not recognized as an internal or external command,
   operable program or batch file.

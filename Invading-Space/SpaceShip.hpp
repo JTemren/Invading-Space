@@ -11,10 +11,13 @@ public:
 	void MoveLeft();
 	void MoveRight();
 	void FireLaser();
+	Rectangle getRectangle();
 	std::vector<Laser> lasers;
+	void Reset();
 
 private:
 	Texture2D image;
 	Vector2 position;
 	double lastFireTime;
+	Sound laserSound;
 };
