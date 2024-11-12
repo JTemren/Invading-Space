@@ -3,12 +3,12 @@
   "WorkspaceRootPath": "C:\\Users\\Jay\\source\\repos\\Invading-Space\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{617A9D96-2E1F-4F51-A0B8-0542D66B9F1A}|Invading-Space\\Invading-Space.vcxproj|C:\\Users\\Jay\\source\\repos\\Invading-Space\\Invading-Space\\Game.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{617A9D96-2E1F-4F51-A0B8-0542D66B9F1A}|Invading-Space\\Invading-Space.vcxproj|solutionrelative:Invading-Space\\Game.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{617A9D96-2E1F-4F51-A0B8-0542D66B9F1A}|Invading-Space\\Invading-Space.vcxproj|C:\\Users\\Jay\\source\\repos\\Invading-Space\\Invading-Space\\Obstacle.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{617A9D96-2E1F-4F51-A0B8-0542D66B9F1A}|Invading-Space\\Invading-Space.vcxproj|solutionrelative:Invading-Space\\Obstacle.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{617A9D96-2E1F-4F51-A0B8-0542D66B9F1A}|Invading-Space\\Invading-Space.vcxproj|C:\\Users\\Jay\\source\\repos\\Invading-Space\\Invading-Space\\Game.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{617A9D96-2E1F-4F51-A0B8-0542D66B9F1A}|Invading-Space\\Invading-Space.vcxproj|solutionrelative:Invading-Space\\Game.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
   "DocumentGroupContainers": [
@@ -18,11 +18,11 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "Obstacle.cpp",
               "DocumentMoniker": "C:\\Users\\Jay\\source\\repos\\Invading-Space\\Invading-Space\\Obstacle.cpp",
               "RelativeDocumentMoniker": "Invading-Space\\Obstacle.cpp",
@@ -30,11 +30,12 @@
               "RelativeToolTip": "Invading-Space\\Obstacle.cpp",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2024-11-11T12:29:04.396Z"
+              "WhenOpened": "2024-11-11T12:29:04.396Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "Game.cpp",
               "DocumentMoniker": "C:\\Users\\Jay\\source\\repos\\Invading-Space\\Invading-Space\\Game.cpp",
               "RelativeDocumentMoniker": "Invading-Space\\Game.cpp",

@@ -35,4 +35,7 @@ C:\Users\Jay\source\repos\Invading-Space\Invading-Space\SpaceShip.cpp(33,47): wa
 C:\Users\Jay\source\repos\Invading-Space\Invading-Space\SpaceShip.cpp(55,48): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
 C:\Users\Jay\source\repos\Invading-Space\Invading-Space\SpaceShip.cpp(56,48): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
   Generating Code...
-LINK : fatal error LNK1104: cannot open file 'raylib.llb'
+LINK : warning LNK4098: defaultlib 'MSVCRT' conflicts with use of other libs; use /NODEFAULTLIB:library
+  Invading-Space.vcxproj -> C:\Users\Jay\source\repos\Invading-Space\x64\Debug\Invading-Space.exe
+  'pwsh.exe' is not recognized as an internal or external command,
+  operable program or batch file.
