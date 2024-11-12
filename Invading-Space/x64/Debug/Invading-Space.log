@@ -1,8 +1,8 @@
 ﻿  Alien.cpp
   Block.cpp
+  Game.cpp
 C:\Users\Jay\source\repos\Invading-Space\Invading-Space\Block.cpp(10,36): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
 C:\Users\Jay\source\repos\Invading-Space\Invading-Space\Block.cpp(10,24): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
-  Game.cpp
 C:\Users\Jay\source\repos\Invading-Space\Invading-Space\Game.hpp(38,52): warning C4305: 'initializing': truncation from 'double' to 'const float'
   (compiling source file 'Game.cpp')
   
