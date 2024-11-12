@@ -1,4 +1,8 @@
-﻿  Game.cpp
+﻿  Alien.cpp
+  Block.cpp
+C:\Users\Jay\source\repos\Invading-Space\Invading-Space\Block.cpp(10,36): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\Jay\source\repos\Invading-Space\Invading-Space\Block.cpp(10,24): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+  Game.cpp
 C:\Users\Jay\source\repos\Invading-Space\Invading-Space\Game.hpp(38,52): warning C4305: 'initializing': truncation from 'double' to 'const float'
   (compiling source file 'Game.cpp')
   
@@ -11,7 +15,24 @@ C:\Users\Jay\source\repos\Invading-Space\Invading-Space\Game.cpp(154,12): warnin
 C:\Users\Jay\source\repos\Invading-Space\Invading-Space\Game.cpp(155,12): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
 C:\Users\Jay\source\repos\Invading-Space\Invading-Space\Game.cpp(186,53): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
 C:\Users\Jay\source\repos\Invading-Space\Invading-Space\Game.cpp(190,31): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
-C:\Users\Jay\source\repos\Invading-Space\Invading-Space\Game.cpp(336,43): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
-  Invading-Space.vcxproj -> C:\Users\Jay\source\repos\Invading-Space\x64\Debug\Invading-Space.exe
-  'pwsh.exe' is not recognized as an internal or external command,
-  operable program or batch file.
+C:\Users\Jay\source\repos\Invading-Space\Invading-Space\Game.cpp(335,43): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+  Invading-Space.cpp
+C:\Users\Jay\source\repos\Invading-Space\Invading-Space\Game.hpp(38,52): warning C4305: 'initializing': truncation from 'double' to 'const float'
+  (compiling source file 'Invading-Space.cpp')
+  
+C:\Users\Jay\source\repos\Invading-Space\Invading-Space\Invading-Space.cpp(11,22): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Jay\source\repos\Invading-Space\Invading-Space\Invading-Space.cpp(75,5): warning C4551: function call missing argument list
+  Laser.cpp
+C:\Users\Jay\source\repos\Invading-Space\Invading-Space\Laser.cpp(13,37): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\Jay\source\repos\Invading-Space\Invading-Space\Laser.cpp(13,25): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+  MysteryShip.cpp
+C:\Users\Jay\source\repos\Invading-Space\Invading-Space\MysteryShip.cpp(44,47): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+  Obstacle.cpp
+  SpaceShip.cpp
+C:\Users\Jay\source\repos\Invading-Space\Invading-Space\SpaceShip.cpp(6,48): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\Jay\source\repos\Invading-Space\Invading-Space\SpaceShip.cpp(7,48): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\Jay\source\repos\Invading-Space\Invading-Space\SpaceShip.cpp(33,47): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\Jay\source\repos\Invading-Space\Invading-Space\SpaceShip.cpp(55,48): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\Jay\source\repos\Invading-Space\Invading-Space\SpaceShip.cpp(56,48): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+  Generating Code...
+LINK : fatal error LNK1104: cannot open file 'raylib.llb'
